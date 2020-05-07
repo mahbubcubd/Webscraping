@@ -1,0 +1,150 @@
+name,url
+AutoML Natural Language,https://cloud.google.com/automl-tables/docs/release-notes
+AutoML Tables,https://cloud.google.com/natural-language/automl/docs/release-notes
+AutoML Translation,https://cloud.google.com/translate/automl/docs/release-notes
+AutoML Video Intelligence Classification,https://cloud.google.com/video-intelligence/automl/docs/release-notes
+AutoML Video Intelligence Object Tracking,https://cloud.google.com/video-intelligence/automl/object-tracking/docs/release-notes
+AutoML Vision Image Classification (ICN),https://cloud.google.com/vision/automl/docs/release-notes
+AutoML Vision Object Detection,https://cloud.google.com/vision/automl/object-detection/docs/release-notes
+Cloud Vision,https://cloud.google.com/vision/docs/release-notes
+Cloud Vision API Product Search,https://cloud.google.com/vision/product-search/docs/release-notes
+Video AI,https://cloud.google.com/video-intelligence/docs/release-notes
+Cloud Natural Language,https://cloud.google.com/natural-language/docs/release-notes
+Cloud Translation,https://cloud.google.com/translate/docs/release-notes
+Text-to-Speech,https://cloud.google.com/text-to-speech/docs/release-notes
+Speech-to-Text,https://cloud.google.com/speech-to-text/docs/release-notes
+Dialogflow,https://cloud.google.com/dialogflow/docs/release-notes
+Cloud Data Labeling,https://cloud.google.com/ai-platform/data-labeling/docs/release-notes
+Recommendations AI,https://cloud.google.com/recommendations-ai/docs/release-notes
+AI Platform,https://cloud.google.com/ai-platform/docs/release-notes
+AI Platform Deep Learning VM Image,https://cloud.google.com/ai-platform/deep-learning-vm/docs/release-notes
+AI Platform Data Labeling Service,https://cloud.google.com/ai-platform/data-labeling/docs/release-notes
+AI Platform Deep Learning Containers,https://cloud.google.com/ai-platform/deep-learning-containers/docs/release-notes
+AI Platform Notebooks,https://cloud.google.com/ai-platform/notebooks/docs/release-notes
+AI Platform Pipelines,https://cloud.google.com/ai-platform/pipelines/docs/release-notes
+AI Platform Prediction,https://cloud.google.com/ai-platform/prediction/docs/release-notes
+AI Platform Training,https://cloud.google.com/ai-platform/training/docs/release-notes
+AI Hub,https://cloud.google.com/ai-hub/docs/release-notes
+Cloud GPUs,https://cloud.google.com/compute/docs/release-notes
+Cloud TPU,https://cloud.google.com/tpu/docs/release-notes
+TensorFlow Enterprise,https://cloud.google.com/tensorflow-enterprise/docs/release-notes
+Cloud Endpoints,https://cloud.google.com/endpoints/docs/release-notes
+Cloud Healthcare API,https://cloud.google.com/healthcare/docs/release-notes
+Compute Engine,https://cloud.google.com/compute/docs/release-notes
+App Engine Admin API,https://cloud.google.com/appengine/docs/admin-api/release-notes
+App Engine flexible environment .NET,https://cloud.google.com/appengine/docs/flexible/dotnet/release-notes
+App Engine flexible environment custom runtimes,https://cloud.google.com/appengine/docs/flexible/custom-runtimes/release-notes
+App Engine flexible environment Go,https://cloud.google.com/appengine/docs/flexible/go/release-notes
+App Engine flexible environment Java,https://cloud.google.com/appengine/docs/flexible/java/release-notes
+App Engine flexible environment Node.js,https://cloud.google.com/appengine/docs/flexible/nodejs/release-notes
+App Engine flexible environment PHP,https://cloud.google.com/appengine/docs/flexible/php/release-notes
+App Engine flexible environment Python,https://cloud.google.com/appengine/docs/flexible/python/release-notes
+App Engine flexible environment Ruby,https://cloud.google.com/appengine/docs/flexible/ruby/release-notes
+App Engine standard environment Go,https://cloud.google.com/appengine/docs/standard/go/release-notes
+App Engine standard environment Java,https://cloud.google.com/appengine/docs/standard/java/release-notes
+App Engine standard environment Node.js,https://cloud.google.com/appengine/docs/standard/nodejs/release-notes
+App Engine standard environment PHP,https://cloud.google.com/appengine/docs/standard/php/release-notes
+App Engine standard environment Python,https://cloud.google.com/appengine/docs/standard/python/release-notes
+App Engine standard environment Ruby,https://cloud.google.com/appengine/docs/standard/ruby/release-notes
+Cloud GPUs,https://cloud.google.com/compute/docs/release-notes
+Migrate for Compute Engine,https://cloud.google.com/migrate/compute-engine/docs/4.9/release-notes
+Google Kubernetes Engine (GKE),https://cloud.google.com/kubernetes-engine/docs/release-notes
+Container Registry,https://cloud.google.com/container-registry/docs/release-notes
+Cloud Build,https://cloud.google.com/cloud-build/docs/release-notes
+Deep Learning Containers,https://cloud.google.com/ai-platform/deep-learning-containers/docs/release-notes
+Container Optimized OS,https://cloud.google.com/container-optimized-os/docs/release-notes
+BigQuery,https://cloud.google.com/bigquery/docs/release-notes
+Cloud Composer,https://cloud.google.com/composer/docs/release-notes
+Cloud Dataflow,https://cloud.google.com/dataflow/docs/resources/release-notes-service
+Cloud Data Fusion,https://cloud.google.com/data-fusion/docs/release-notes
+Cloud Dataprep,https://cloud.google.com/dataprep/docs/release-notes
+Cloud Dataproc,https://cloud.google.com/dataproc/docs/release-notes
+Cloud Pub/Sub,https://cloud.google.com/pubsub/docs/release-notes
+Data Catalog,https://cloud.google.com/data-catalog/docs/release-notes
+Cloud Life Sciences (beta),https://cloud.google.com/life-sciences/docs/release-notes
+Cloud Bigtable,https://cloud.google.com/bigtable/docs/release-notes
+Cloud Firestore,https://cloud.google.com/firestore/docs/release-notes
+Memorystore for Memcached,https://cloud.google.com/memorystore/docs/memcached/release-notes
+Memorystore for Redis,https://cloud.google.com/memorystore/docs/redis/release-notes
+Cloud Spanner,https://cloud.google.com/spanner/docs/release-notes
+Cloud SQL for MySQL,https://cloud.google.com/sql/docs/mysql/release-notes
+Cloud SQL for PostgreSQL,https://cloud.google.com/sql/docs/postgres/release-notes
+Cloud SQL for SQL Server,https://cloud.google.com/sql/docs/sqlserver/release-notes
+Datastore,https://cloud.google.com/datastore/release-notes
+Artifact Registry,https://cloud.google.com/artifact-registry/docs/release-notes
+Cloud SDK,https://cloud.google.com/sdk/docs/release-notes
+Container Registry,https://cloud.google.com/container-registry/docs/release-notes
+Cloud Build,https://cloud.google.com/cloud-build/docs/release-notes
+Cloud Source Repositories,https://cloud.google.com/source-repositories/docs/release-notes
+Cloud Scheduler,https://cloud.google.com/scheduler/docs/release-notes
+Cloud Tasks,https://cloud.google.com/tasks/docs/release-notes
+Cloud Code for IntelliJ,https://cloud.google.com/code/docs/intellij/release-notes
+Cloud Tools for PowerShell,https://cloud.google.com/tools/powershell/docs/release-notes
+Cloud Tools for Visual Studio,https://cloud.google.com/tools/visual-studio/docs/release-notes
+Cloud Tools for Eclipse,https://cloud.google.com/eclipse/docs/release-notes
+Cloud Life Sciences (beta),https://cloud.google.com/life-sciences/docs/release-notes
+Cloud Healthcare API,https://cloud.google.com/healthcare/docs/release-notes
+Anthos,https://cloud.google.com/anthos/docs/release-notes
+Anthos GKE,https://cloud.google.com/anthos/gke/docs/on-prem/release-notes
+Anthos Config Management,https://cloud.google.com/anthos-config-management/docs/release-notes
+Anthos Service Mesh (beta),https://cloud.google.com/service-mesh/docs/release-notes
+Config Connector,https://cloud.google.com/config-connector/docs/release-notes
+Cloud Run for Anthos,https://cloud.google.com/run/docs/gke/release-notes
+Google Cloud Platform Marketplace,https://cloud.google.com/marketplace/docs/release-notes
+Migrate for Anthos,https://cloud.google.com/migrate/anthos/docs/release-notes
+Cloud Build,https://cloud.google.com/cloud-build/docs/release-notes
+Traffic Director,https://cloud.google.com/traffic-director/docs/release-notes
+Cloud IoT Core,https://cloud.google.com/iot-core/docs/release-notes
+Private Catalog,https://cloud.google.com/private-catalog/docs/release-notes
+Cloud Deployment Manager,https://cloud.google.com/deployment-manager/docs/release-notes
+Anthos Service Mesh,https://cloud.google.com/service-mesh/docs/release-notes
+Cloud Billing,https://cloud.google.com/billing/docs/release-notes
+Game Servers,https://cloud.google.com/game-servers/docs/release-notes
+BigQuery Data Transfer Service,https://cloud.google.com/bigquery-transfer/docs/release-notes
+Cloud Data Transfer,https://cloud.google.com/transfer-appliance/docs/2.0/release-notes
+Transfer Service,https://cloud.google.com/storage-transfer/docs/release-notes
+Migrate for Anthos,https://cloud.google.com/migrate/anthos/docs/release-notes
+Migrate for Compute Engine,https://cloud.google.com/migrate/compute-engine/docs/4.9/release-notes
+Transfer Appliance,https://cloud.google.com/transfer-appliance/docs/2.0/release-notes
+Cloud Armor,https://cloud.google.com/armor/docs/release-notes
+Cloud CDN,https://cloud.google.com/cdn/docs/release-notes
+Cloud DNS,https://cloud.google.com/dns/docs/release-notes
+Cloud Load Balancing,https://cloud.google.com/load-balancing/docs/release-notes
+Cloud NAT,https://cloud.google.com/nat/docs/release-notes
+Hybrid Connectivity,https://cloud.google.com/interconnect/docs/release-notes
+Network Intelligence Center,https://cloud.google.com/network-intelligence-center/docs/release-notes
+Network Service Tiers,https://cloud.google.com/network-tiers/docs/release-notes
+Traffic Director,https://cloud.google.com/traffic-director/docs/release-notes
+Virtual Private Cloud (VPC),https://cloud.google.com/vpc/docs/release-notes
+Cloud Router,https://cloud.google.com/router/docs/release-notes
+Cloud VPN,https://cloud.google.com/vpn/docs/release-notes
+Operations Suite,https://cloud.google.com/stackdriver/docs/release-notes
+Cloud Logging,https://cloud.google.com/logging/docs/release-notes
+Cloud Monitoring,https://cloud.google.com/monitoring/docs/release-notes
+Error Reporting,https://cloud.google.com/error-reporting/docs/release-notes
+Cloud Trace,https://cloud.google.com/trace/docs/release-notes
+Cloud Profiler,https://cloud.google.com/profiler/docs/release-notes
+Cloud Debugger,https://cloud.google.com/debugger/docs/release-notes
+Binary Authorization,https://cloud.google.com/binary-authorization/docs/release-notes
+Cloud Asset Inventory,https://cloud.google.com/asset-inventory/docs/release-notes
+Cloud Data Loss Prevention,https://cloud.google.com/dlp/docs/release-notes
+Cloud Key Management Service,https://cloud.google.com/kms/docs/release-notes
+Cloud Security Command Center,https://cloud.google.com/security-command-center/docs/release-notes
+Cloud Security Scanner,https://cloud.google.com/security-scanner/docs/release-notes
+Event Threat Detection (beta),https://cloud.google.com/event-threat-detection/docs/release-notes
+VPC Service Controls,https://cloud.google.com/vpc-service-controls/docs/release-notes
+Secret Manager,https://cloud.google.com/secret-manager/docs/release-notes
+Cloud IAM,https://cloud.google.com/iam/docs/release-notes
+Cloud Identity,https://cloud.google.com/identity/docs/release-notes
+Cloud Identity-Aware Proxy,https://cloud.google.com/iap/docs/release-notes
+Endpoint Verification,https://cloud.google.com/endpoint-verification/docs/release-notes
+Identity Platform,https://cloud.google.com/identity-cp/docs/release-notes
+Managed Service for Microsoft Active Directory,https://cloud.google.com/managed-microsoft-ad/docs/release-notes
+Resource Manager,https://cloud.google.com/resource-manager/docs/release-notes
+Phishing Protection,https://cloud.google.com/phishing-protection/docs/release-notes
+reCAPTCHA Enterprise,https://cloud.google.com/recaptcha-enterprise/docs/release-notes
+Web Risk API,https://cloud.google.com/web-risk/docs/release-notes
+Cloud Run,https://cloud.google.com/run/docs/release-notes
+Cloud Functions,https://cloud.google.com/functions/docs/release-notes
+Cloud Storage,https://cloud.google.com/storage/docs/release-notes
+Cloud Filestore,https://cloud.google.com/filestore/docs/release-notes
